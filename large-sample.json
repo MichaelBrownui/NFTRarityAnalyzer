@@ -1,0 +1,82 @@
+[
+  {
+    "token_id": "1",
+    "name": "CryptoApe #1",
+    "attributes": [
+      {"trait_type": "Background", "value": "Blue"},
+      {"trait_type": "Eyes", "value": "Laser"},
+      {"trait_type": "Hat", "value": "Cap"},
+      {"trait_type": "Clothes", "value": "Hoodie"}
+    ]
+  },
+  {
+    "token_id": "2", 
+    "name": "CryptoApe #2",
+    "attributes": [
+      {"trait_type": "Background", "value": "Red"},
+      {"trait_type": "Eyes", "value": "Normal"},
+      {"trait_type": "Hat", "value": "Cap"},
+      {"trait_type": "Clothes", "value": "T-shirt"}
+    ]
+  },
+  {
+    "token_id": "3",
+    "name": "CryptoApe #3", 
+    "attributes": [
+      {"trait_type": "Background", "value": "Blue"},
+      {"trait_type": "Eyes", "value": "Normal"},
+      {"trait_type": "Hat", "value": "Beanie"},
+      {"trait_type": "Clothes", "value": "Jacket"}
+    ]
+  },
+  {
+    "token_id": "4",
+    "name": "CryptoApe #4",
+    "attributes": [
+      {"trait_type": "Background", "value": "Green"},
+      {"trait_type": "Eyes", "value": "3D"},
+      {"trait_type": "Hat", "value": "None"},
+      {"trait_type": "Clothes", "value": "Hoodie"}
+    ]
+  },
+  {
+    "token_id": "5",
+    "name": "CryptoApe #5",
+    "attributes": [
+      {"trait_type": "Background", "value": "Purple"},
+      {"trait_type": "Eyes", "value": "Laser"},
+      {"trait_type": "Hat", "value": "Crown"},
+      {"trait_type": "Clothes", "value": "Suit"}
+    ]
+  },
+  {
+    "token_id": "6",
+    "name": "CryptoApe #6",
+    "attributes": [
+      {"trait_type": "Background", "value": "Blue"},
+      {"trait_type": "Eyes", "value": "Normal"},
+      {"trait_type": "Hat", "value": "Cap"},
+      {"trait_type": "Clothes", "value": "T-shirt"}
+    ]
+  },
+  {
+    "token_id": "7",
+    "name": "CryptoApe #7",
+    "attributes": [
+      {"trait_type": "Background", "value": "Yellow"},
+      {"trait_type": "Eyes", "value": "Sunglasses"},
+      {"trait_type": "Hat", "value": "Beanie"},
+      {"trait_type": "Clothes", "value": "Tank Top"}
+    ]
+  },
+  {
+    "token_id": "8",
+    "name": "CryptoApe #8",
+    "attributes": [
+      {"trait_type": "Background", "value": "Red"},
+      {"trait_type": "Eyes", "value": "3D"},
+      {"trait_type": "Hat", "value": "None"},
+      {"trait_type": "Clothes", "value": "Hoodie"}
+    ]
+  }
+]
