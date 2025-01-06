@@ -1,0 +1,29 @@
+[
+  {
+    "token_id": "1",
+    "name": "CoolNFT #1",
+    "attributes": [
+      {"trait_type": "Background", "value": "Blue"},
+      {"trait_type": "Eyes", "value": "Laser"},
+      {"trait_type": "Hat", "value": "Cap"}
+    ]
+  },
+  {
+    "token_id": "2", 
+    "name": "CoolNFT #2",
+    "attributes": [
+      {"trait_type": "Background", "value": "Red"},
+      {"trait_type": "Eyes", "value": "Normal"},
+      {"trait_type": "Hat", "value": "Cap"}
+    ]
+  },
+  {
+    "token_id": "3",
+    "name": "CoolNFT #3", 
+    "attributes": [
+      {"trait_type": "Background", "value": "Blue"},
+      {"trait_type": "Eyes", "value": "Normal"},
+      {"trait_type": "Hat", "value": "Beanie"}
+    ]
+  }
+]
