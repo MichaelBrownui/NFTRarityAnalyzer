@@ -1,6 +1,7 @@
 node_modules/
-.claude
 *.log
-CLAUDE.md
+.claude
 .env
+CLAUDE.md
 dist/
+results.json
